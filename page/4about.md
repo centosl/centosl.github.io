@@ -36,11 +36,8 @@ type: page
 
 ~欢迎使用~
 
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/centosl/centosl.github.io/issues)。
-这个算是测试版吧第一次尝试创建博客，浏览了不少大神的文章，借鉴了很多page，在此对 [Gaohaoyang](https://github.com/Gaohaoyang)
-表示感谢
-
-
+**欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/centosl/centosl.github.io/issues)。
+**这个算是测试版吧第一次尝试创建博客，浏览了不少大神的文章，借鉴了很多page，在此对 [Gaohaoyang](https://github.com/Gaohaoyang)表示感谢
 ## 友情链接
 <!-- 
 [羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
