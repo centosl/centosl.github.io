@@ -14,7 +14,7 @@ url: "https://centosl.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-github_username:centosl
+github_username: centosl
 email: designl@foxmail.com
 weibo_username: centosl
 zhihu_username: centosl
