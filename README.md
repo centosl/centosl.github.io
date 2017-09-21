@@ -1,4 +1,4 @@
 # About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
 
-##暂时没有要说的
+##[blog]:(https://centosl.github.io/)
 
