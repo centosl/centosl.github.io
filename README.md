@@ -1,11 +1,30 @@
-# Windows 95 Theme for Jekyll
+# Flexible-Jekyll is a simple and clean theme for Jekyll
 
-![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
+![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
-Homepage: [Windows 95](https://h01000110.github.io/20170917/windows-95)
+## Demo
 
-Demo: [Click here](https://h01000110.github.io/windows-95/)
+Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
-Author: [h01000110 (hi)](https://github.com/h01000110)
+The main page would look like this:
 
-License: [MIT](https://github.com/h01000110/windows-95/blob/master/LICENSE)
+![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+
+The post page would look like this:
+
+![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+
+## Features
+
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+
+## Installation:
+
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+
+### License
+
+GNU General Public License v3.0
