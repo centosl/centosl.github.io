@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 蓝色土耳其
+title: 南岸博客
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://centosl.github.io" # the base hostname & protocol for your site
@@ -14,20 +14,18 @@ url: "https://centosl.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
+github_username:centosl
 email: designl@foxmail.com
 weibo_username: centosl
 zhihu_username: centosl
 
 description_footer: 喜欢的都写这儿了！
 
-# comments
+<!-- # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #hygblog
-disqus_shortname: lan zong ping
+disqus_shortname: lan zong ping -->
 
 <!-- # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
@@ -35,15 +33,6 @@ disqus_shortname: lan zong ping
 # xxxxx字符串
 baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
 google_analytics_id: UA-72449510-4 # google 分析追踪id -->
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?e4e7ce189c1e614abae230001249b298";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
 
 
 # Build settings
