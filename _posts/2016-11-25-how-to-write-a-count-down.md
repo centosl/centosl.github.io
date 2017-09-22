@@ -28,8 +28,8 @@ author: HyG
 
 - 初始化时请求一次服务器时间 serverTime，再 new 一个设备时间 deviceTime
 - deviceTime 与 serverTime 的差作为时间偏移修正
-- 每次递归时 new 一个系统时间，解决 setTimeout 不准确的问题
-##<a href="https://www.baidu.com" target="_blank">跳到自己博客列表</a>
+- 每次递归时 new 一个系统时间，解决 setTimeout 不准确的问题<a href="https://www.baidu.com" target="_blank">跳到自己博客列表</a>
+- 做一个小小的测试吧[去百度](url){https://www.baidu.com:target="_blank"}
 
 ## 代码
 
