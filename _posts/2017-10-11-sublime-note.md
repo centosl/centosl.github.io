@@ -17,7 +17,7 @@ tags: Sublime 面向对象 慕课网
 
 ## 自动刷新插件browser sync
 
-使用<font color=#fff size=18 face="黑体">ipconfig</font>查询ip地址，把sublimetext中browser sync插件启动的地址中的localhost换成ip地址，（eg:http://192.168.1.117:3002/demo.html）
+使用pconfig查询ip地址，把sublimetext中browser sync插件启动的地址中的localhost换成ip地址，（eg:http://192.168.1.117:3002/demo.html）
 就可以让同一局域网中的手机访问，并且实现保存同步刷新效果。 exempli gratia:例如  常简写“eg”。
 
 
