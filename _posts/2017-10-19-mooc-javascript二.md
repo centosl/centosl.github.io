@@ -73,3 +73,60 @@ confirm(str);
 ![](http://img.mukewang.com/52e35bc60001f01a04230353.jpg)
 
 注: 消息对话框是排它的，即用户在点击对话框按钮前，不能进行任何其它操作。
+
+## JavaScript-提问（prompt 消息对话框）
+  prompt弹出消息对话框,通常用于询问一些需要与用户交互的信息。弹出消息对话框（包含一个确定按钮、取消按钮与一个文本输入框）。
+
+语法:
+
+prompt(str1, str2);
+
+参数说明：
+
+str1: 要显示在消息对话框中的文本，不可修改
+str2：文本框中的内容，可以修改
+
+返回值:
+
+1. 点击确定按钮，文本框中的内容将作为函数返回值
+2. 点击取消按钮，将返回null
+看看下面代码:
+```html
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>prompt</title>
+  <script type="text/javascript">
+  function rec(){
+	var score; //score变量，用来存储用户输入的成绩值。
+	score =prompt("你的分数是多少？");
+	if(score>=90)
+	{
+	   document.write("你很棒!");
+	}
+	else if(score>=75)
+    {
+	   document.write("不错吆!");
+	}
+	else if(score>=60)
+    {
+	   document.write("要加油!");
+    }
+    else
+	{
+       document.write("要努力了!");
+	}
+  }
+  </script>
+</head>
+<body>
+    <input name="button" type="button" onClick="rec()" value="点击我，对成绩做评价!" />
+</body>
+</html>
+```
+结果:
+
+![](https://raw.githubusercontent.com/centosl/imageslibrary/master/javascript/afsd.jpg)
+
+注:在用户点击对话框的按钮前，不能进行任何其它操作。
