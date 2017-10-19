@@ -90,8 +90,11 @@ str2：文本框中的内容，可以修改
 
 1. 点击确定按钮，文本框中的内容将作为函数返回值
 2. 点击取消按钮，将返回null
+
 看看下面代码:
+
 ```html
+
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -124,6 +127,7 @@ str2：文本框中的内容，可以修改
     <input name="button" type="button" onClick="rec()" value="点击我，对成绩做评价!" />
 </body>
 </html>
+
 ```
 结果:
 
