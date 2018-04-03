@@ -33,8 +33,8 @@ type: page
 
 
 ## 友情链接
-__<a href="https://www.baidu.com" target="_blank">你想去百度吗？</a>__
+<!-- __<a href="https://www.baidu.com" target="_blank">你想去百度吗？</a>__ -->
 
-
+<!-- 
 ## 留言
- {% include comments.html %}
+ {% include comments.html %} -->
