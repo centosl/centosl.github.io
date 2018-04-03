@@ -6,24 +6,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: SFLYQ
+title: XLblog
 brief-intro: "追逐全栈技术"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sflaqiu.github.io" # the base hostname & protocol for your site
-ad_taobao_11: "http://s.click.taobao.com/hwdVQQx"
+url: "https://centosl.github.io/" # the base hostname & protocol for your site
+# ad_taobao_11: "http://s.click.taobao.com/hwdVQQx"
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: SFLYQ
-facebook_username: SFLYQ.water
-github_username:  SFLYQ
-email: 563644741@qq.com
-weibo_username: SFLYQ
-zhihu_username: SFLYQ
-linkedIn_username: SFLYQ
+github_username:  centosl
+email: designl@foxmail.com
+weibo_username: centosl
+zhihu_username: centosl
 dribbble_username:
-
 description_footer: 本站记录代码之旅的沿途风景！
 
 # comments
@@ -36,7 +32,7 @@ disqus_shortname: #gaohaoyang
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 635b4278dea79f0edb13616aea4458d9
+baidu_tongji_id: bdc55458d772a5bcd7d74f45b4a320f7
 google_analytics_id: #UA-72449510-4 # google 分析追踪id
 
 # Build settings
