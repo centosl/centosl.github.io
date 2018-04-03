@@ -127,11 +127,6 @@ disqus_shortname: xxx
 
 ![mobile](http://ww4.sinaimg.cn/large/7011d6cfjw1f3bebnzxkpj20ah0fzgp4.jpg)
 
-### Footer
-
-**欢迎使用这个主题，使用时请保留 footer 上的模板主题来源。** Theme designed by [HyG](https://github.com/gaohaoyang).
-![footer](http://ww3.sinaimg.cn/large/7011d6cfjw1f3bepd8002j20hl02ct95.jpg)
-
 ### 统计
 
 博客支持百度统计和 Google Analytics，只需在`_config.yml`中配置响应的id即可，代码如下。
