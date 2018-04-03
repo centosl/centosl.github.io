@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: XLblog
+title: 小蓝的个人博客
 brief-intro: "追逐全栈技术"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://centosl.github.io/" # the base hostname & protocol for your site
@@ -24,7 +24,7 @@ description_footer: 本站记录代码之旅的沿途风景！
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: xiaolanblog
+duoshuo_shortname: xiaolan博客
 disqus_shortname: #gaohaoyang
 
 # statistic analysis 统计代码
