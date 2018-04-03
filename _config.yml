@@ -11,7 +11,6 @@ brief-intro: "追逐全栈技术"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://centosl.github.io/" # the base hostname & protocol for your site
 # ad_taobao_11: "http://s.click.taobao.com/hwdVQQx"
-
 permalink: /:year/:month/:day/:title/
 
 # other links
@@ -19,7 +18,7 @@ github_username:  centosl
 email: designl@foxmail.com
 weibo_username: centosl
 zhihu_username: centosl
-# dribbble_username:
+dribbble_username:
 description_footer: 本站记录代码之旅的沿途风景！
 
 # comments
