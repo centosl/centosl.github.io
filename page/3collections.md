@@ -290,6 +290,6 @@ Syntax Theme: Atom Dark or One Dark
 
 * [JS前端开发群月报 -豪情等人维护](http://www.kancloud.cn/jsfront/month/82796)
 
-## Comments
+## 留言
 
 {% include comments.html %}
