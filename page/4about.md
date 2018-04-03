@@ -12,8 +12,8 @@ type: page
 **前端一枚  前途不可限量  心存高远 脚踏实地**
 *-----业精于勤，荒于嬉；行成于思，毁于随*
 
-  <br/>      
- 
+  <br/>
+
 ## 联系我
 
 * GitHub：<a href="https://github.com/centosl" target="_blank">centosl</a>
