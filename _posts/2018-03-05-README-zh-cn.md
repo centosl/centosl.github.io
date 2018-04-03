@@ -344,3 +344,5 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 * `[^]` 使用 Masonry 重写了 Demo 页中的瀑布流布局，响应式交互体验更好
 * `[-]` 去除了 jQuery 和 BootStrap，使得加载速度更快
 
+## 留言
+{% include comments.html %}

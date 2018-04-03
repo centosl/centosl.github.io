@@ -38,5 +38,5 @@ type: page
 __<a href="https://www.baidu.com" target="_blank">你想去百度吗？</a>__
 
 
-## Comments
+## 留言
  {% include comments.html %}
