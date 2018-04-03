@@ -39,4 +39,4 @@ __<a href="https://www.baidu.com" target="_blank">你想去百度吗？</a>__
 
 
 ## Comments
- 暂无评论功能
+ {% include comments.html %}
