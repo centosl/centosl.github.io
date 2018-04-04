@@ -1,3 +1,21 @@
+---
+layout: post
+title:  "关于这个简洁明快的博客主题 🤘🤘🤘"
+date:   2018-04-04 17:00:05 +0800
+categories: 开发 神器 博客
+tags: 开发神器
+author: LZP
+---
+
+* content
+{:toc}
+
+关于这个简洁明快的博客主题 🤘🤘🤘
+随着 jekyll 的版本升级，同时我也想重构我的旧版博客主题，因此在这个月对博客进行了重构加改版，这个仓库存放我的新博客，并且我也会一直使用这个主题。目前基本改版完成，后续可能还会有些细节上的修补。
+
+
+
+
 # 关于这个简洁明快的博客主题 🤘🤘🤘
 
 随着 jekyll 的版本升级，同时我也想重构我的旧版博客主题，因此在这个月对博客进行了重构加改版，这个仓库存放我的新博客，并且我也会一直使用这个主题。目前基本改版完成，后续可能还会有些细节上的修补。
@@ -297,39 +315,6 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 
 没什么问题，推送到自己的博客仓库即可。
 
-## 捐助 donate
-
-您也可以捐助我喝杯咖啡！感谢！
-
-<!-- PayPal
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="Q44JFSYQXBFL2">
-<input type="image" src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png" border="0" name="submit" alt="PayPal——最安全便捷的在线支付方式！">
-<img alt="" border="0" src="https://www.paypalobjects.com/zh_XC/i/scr/pixel.gif" width="1" height="1">
-</form><br>      -->
-
-支付宝 | 微信支付 | PayPal
- :---: | :---: | :---:
-![alipay](http://ww2.sinaimg.cn/large/7011d6cfjw1f3bk8ikzoij20740743z5.jpg) | ![wechat](http://ww2.sinaimg.cn/large/7011d6cfjw1f3bkdw3bslj206z06q3z6.jpg) | [![PayPal](https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png)<br>Donate via PayPal ](https://www.paypal.me/gaohaoyang)
-
-
-
-
-感谢捐助的小伙伴！！！
-
-* 2016.08.10 收到 ¥4.40 捐赠
-* 2016.07.25 收到 邓炳初 ¥6.66 捐赠
-* 2016.07.11 收到 彦风 ¥6.66 捐赠
-* 2016.07.07 收到 Klci ¥2.50 捐赠
-* 2016.05.08 收到 1057 ¥10.57 捐赠
-* 2016.05.07 收到 吴林 ¥2 捐赠
-* 2016.04.29 收到 北归 ¥10 捐赠
-* 2016.04.28 收到 魏楚阳_Brian ¥2 捐赠
-* 2016.04.28 收到 薛彬 ¥8.8 捐赠
-
-
 ## Update Log
 
 ### 2016.6.20
@@ -366,8 +351,7 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 * `[^]` 使用 Masonry 重写了 Demo 页中的瀑布流布局，响应式交互体验更好
 * `[-]` 去除了 jQuery 和 BootStrap，使得加载速度更快
 
-关于旧版博客，我不再维护，同时我把代码转移到了另一个仓库，见 [Gaohaoyang/old-blog](https://github.com/Gaohaoyang/old-blog)。
 
-## License
+## 留言
 
-[MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+{% include comments.html %}
