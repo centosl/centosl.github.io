@@ -2,9 +2,8 @@
 layout: post
 title:  "只图一乐"
 categories: laugh
-tags: laugh javascript
+tags:  laugh javascript
 author: LZP
-
 ---
 
 * content
@@ -19,6 +18,4 @@ author: LZP
 
 ## 笑点
 
-<div style="width:640px; height: 450px; margin: 0 auto">
-<img  style="width:640px; height: auto;" src="https://raw.githubusercontent.com/centosl/imageslibrary/master/laugh/640.gif">
-</div>
+这里是笑点的内容具体的请看摘要！
