@@ -10,8 +10,6 @@ excerpt: 会写js了不起啊？js好啊，js可以写前端，js可以……
 * content
 {:toc}
 
-![](https://raw.githubusercontent.com/centosl/imageslibrary/master/laugh/640.gif)
-
 
 
 
