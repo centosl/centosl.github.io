@@ -2,8 +2,8 @@
 layout: post
 title:  "只图一乐"
 date:   2018-04-07 9:06:05
-categories: 乐子
-tags: laugh 乐子 javascript
+categories: laugh
+tags: laugh javascript
 ---
 
 * content
