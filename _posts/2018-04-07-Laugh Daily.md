@@ -4,7 +4,7 @@ title:  "只图一乐"
 categories: laugh
 tags:  laugh javascript
 author: LZP
-excerpt:会写js了不起啊？js好啊，js可以写前端，js可以……
+excerpt: 会写js了不起啊？js好啊，js可以写前端，js可以……
 ---
 
 * content
