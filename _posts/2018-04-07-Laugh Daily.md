@@ -4,6 +4,7 @@ title:  "只图一乐"
 categories: laugh
 tags: laugh javascript
 author: LZP
+
 ---
 
 * content
