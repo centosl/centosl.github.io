@@ -1,18 +1,35 @@
 ---
 layout: post
-title:  "前端的一些资料和工具"
-date:   2017-05-18 14:06:05
+title:  "大话WEB前端开发必备神器"
+date:   201-04-02 10:06:05
 categories: Tools
-tags: tools CSS reveal 配色
+tags: tools CSS reveal sublime 插件 配色
 excerpt: 记录一些好用的前端工具和框架。
 ---
 
 * content
 {:toc}
 
-这里记录一些我用到的或者见到的比较好用方便的前端开发相关的工具吧。
+开发的过程中经常会使用到的各种辅助软件，学会并灵活的使用这些工具，可以提高开发效率，提高排查问题的速度，达到一个事半功倍的效果；这里我就列出在开发的过程中我会使用的一些工具，分享给大家。
+
+
+
 
 ---
+### 轻量级文本编辑器
+
+#### Sublime
+
+>轻量级文本编辑器，各种使用技巧，前端开发神器，各种插件欲罢不能，如：Emmet、Browser Sync、Markdown Preview(强烈推荐，写博客必备)。
+
+### 必备浏览器插件
+
+* JetBrains IDE Support。
+
+### 编辑器和不错的插件组合
+
+* JetBrains IDE Support加上webstorm简直不要太爽。
+* sublime加上Browser Sync也非常棒。
 
 ## 色彩与图标
 
