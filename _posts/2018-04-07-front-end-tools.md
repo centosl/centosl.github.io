@@ -4,7 +4,7 @@ title:  "大话WEB前端开发必备神器"
 date:   2018-04-02 10:06:05
 categories: Tools
 tags: tools CSS reveal sublime 插件 配色
-excerpt: 记录一些好用的前端工具和框架。
+<!-- excerpt: 记录一些好用的前端工具和框架。 这个是文章摘要-->
 ---
 
 * content
