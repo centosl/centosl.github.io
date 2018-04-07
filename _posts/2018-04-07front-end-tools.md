@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "大话WEB前端开发必备神器"
-date:   201-04-02 10:06:05
+date:   2018-04-02 10:06:05
 categories: Tools
 tags: tools CSS reveal sublime 插件 配色
 excerpt: 记录一些好用的前端工具和框架。
@@ -63,23 +63,6 @@ excerpt: 记录一些好用的前端工具和框架。
 
 ---
 
-### QQ截图取色-16进制
-
-在按下 `Ctrl+Shift+A` 后，再按一下 `Ctrl` 就可以看到截图框下面的颜色代码变成16进制的代码了。
-
-如下图：
-
-普通截图：
-
-![normal](http://7q5cdt.com1.z0.glb.clouddn.com/blog-RBGScreenColor.png)
-
-按住 `Ctrl`：
-
-![press ctrl](http://7q5cdt.com1.z0.glb.clouddn.com/blog-hexSreenColor.png)
-
-可以看到第一幅图中的 51, 51, 51 变成了 #333333。
-
----
 
 ### 配色
 
