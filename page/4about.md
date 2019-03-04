@@ -27,10 +27,11 @@ icon: heart
 
 #### 项目经验
 
+* <a href="http://xeyvip.com" target="_blank">学而用在线教育平台：http://xeyvip.com</a>基于vue.js，多平台适应，ios、Android、H5、微信小程序。
 * <a href="http://www.ynyuanli.com" target="_blank">源力教育官网：http://www.ynyuanli.com</a>手机版和pc版
 * <a href="http://www.ynruchu.com" target="_blank">如初妈咪官网：http://www.ynruchu.com</a>手机版和pc版
 * <a href="http://www.xyszj.com" target="_blank">星月嫂之家：http://www.xyszj.com</a>自适应网站
-* <a href="http://xeyvip.com" target="_blank">学而用在线教育平台：http://xeyvip.com</a>基于vue.js，多平台适应，ios、Android、H5、微信小程序。
+
 
 
 
