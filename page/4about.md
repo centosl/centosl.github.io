@@ -8,20 +8,31 @@ icon: heart
 * content
 {:toc}
 
-**前端小菜一枚  前途不可限量  心存高远 脚踏实地**
+**心存高远 脚踏实地**
 *-----业精于勤，荒于嬉；行成于思，毁于随*
 
-*一心牵挂全栈技术，为成为真正的全栈攻城狮不间断的前进！*
+*一心牵挂全栈技术，为成为真正的全栈而努力*
 
 工作年限：(2015-12-1~至今)
 
 * 2015-06 毕业于滇西科技师范学院（原临沧师范）
-* 2015-12-1 入职昆明标图科技有限公司 网络部
+
+* 2015-12-1~2018-3 昆明标图科技有限公司 网络部
     * 从事网页设计，ps切图，淘宝店铺装修，客户logo设计。
     * 前端开发。
-* 至今
+* 2018-4-16~2019-3-1 云南疆恒科技有限公司 网络部
+    * web前端。
 
 ---
+
+#### 项目经验
+
+<a href="http://www.ynyuanli.com">源力教育官网：http://www.ynyuanli.com</a>手机版和pc版
+<a href="http://www.ynruchu.com">如初妈咪官网：http://www.ynruchu.com</a>手机版和pc版
+<a href="http://www.xyszj.com">星月嫂之家：http://www.xyszj.com</a>自适应网站
+<a href="http://xeyvip.com">学而用在线教育平台：http://xeyvip.com</a>基于vue.js，多平台适应，ios、Android、H5、微信小程序。
+
+
 
 ## 技术栈
 
@@ -29,17 +40,12 @@ icon: heart
 
 * html css javascript ajax
 * UI框架：
-    * bootstrap (了解)
-    * MUI (了解)
+    * bootstrap (使用)
+    * MUI (使用)
 * javascript
-    * nodejs (实战)
     * Dom操作框架：jquery
-    * 前端MVVM框架：vue.js react.js
-    * AMD规范框架：commonjs requirejs
-    * 面向对象编程JS：typescript
-    * 自动部署：grunt gulp
-    * 框架管理：npm browser
-* React-Native (学习)
+    * 前端MVVM框架：vue.js 
+    * uniapp：基于vue.js，多平台适应，ios、Android、H5、微信小程序 
 * Weex (学习)
 
 #### 其他
