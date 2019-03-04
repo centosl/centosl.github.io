@@ -51,10 +51,8 @@ icon: heart
 #### 其他
 
 * nodejs
-    * 做高并发服务(nodejs+express+ejs+redis+mysql) (实战)
-    * 跑任务脚本 (实战)
-    * 前后端分离中间成员
-    * Node-Webkit 做应用 (了解)
+    * vue.js可用。
+    
 
 ---
 
