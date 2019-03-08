@@ -12,6 +12,13 @@
     <link rel="stylesheet" href="{{ " /css/main.css " | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ " /feed.xml " | prepend: site.baseurl | prepend: site.url }}">
+    <style type="text/css">
+      #pop_ad{
+        display: none !important;
+        z-index: -9999 !important;
+        width: 0 !important;
+      }
+    </style>
 
 {% if site.baidu_tongji_id %}
    <script>
